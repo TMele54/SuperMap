@@ -1,0 +1,368 @@
+[
+  {
+    "name": "points",
+    "title": "1. Points",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Points ",
+    "examples": [
+      "https://stackoverflow.com/questions/15907171/d3-canvas-globe-mouse-events",
+      "https://observablehq.com/@alainro/can-quadtree-speed-up-zoom-of-many-points-on-a-canvas"
+    ],
+    "finished": true
+  },
+  {
+    "name": "lines",
+    "title": "2. Lines",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Lines ",
+    "examples": [
+      "https://observablehq.com/@jipexu/chinese-rivers",
+      "https://www.youtube.com/watch?v=xwiHQlmEEjw"
+    ],
+    "finished": true
+  },
+  {
+    "name": "polygons",
+    "title": "3. Polygons",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Polygons ",
+    "examples": [
+      "https://osmbuildings.org/documentation/data/",
+      "https://www.nextzen.org/"
+    ],
+    "finished": true
+  },
+  {
+    "name": "hexagons",
+    "title": "4. Hexagons",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Hexagons ",
+    "examples": [
+      "https://qgis2threejs.readthedocs.io/en/docs/Tutorial.html",
+      "https://qgis2threejs.readthedocs.io/en/docs/",
+      "https://medium.com/the-pointscene-diaries/creating-3d-map-in-qgis-690f3d40beb1",
+      "https://bnhr.xyz/2017/07/28/foss4g-how-to-get-zonal-statistics-in-qgis-and-grass-using-a-polygon-layer-as-zones.html"
+    ],
+    "finished": true
+  },
+  {
+    "name": "openstreetmap",
+    "title": "5. OpenStreetMap",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " OpenStreetMap ",
+    "examples": [
+      "https://overpass-turbo.eu/",
+      "https://codesandbox.io/examples/package/query-overpass",
+      "https://wiki.openstreetmap.org/wiki/Overpass_API/Language_Guide#By_exact_name_and_rough_location",
+      "https://wiki.openstreetmap.org/wiki/Overpass_turbo#Map",
+      "https://observablehq.com/@d3/raster-tiles"
+    ],
+    "finished": true
+  },
+  {
+    "name": "red",
+    "title": "6. Red",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Red ",
+    "examples": [
+      "https://emergency.copernicus.eu/mapping/ems-product-component/EMSR546_AOI01_GRA_MONIT47_r1_VECTORS/1",
+      "https://www.openstreetmap.org/relation/1464825#map=14/28.5943/-17.9025",
+      "https://cloud.maptiler.com/maps/"
+    ],
+    "finished": true
+  },
+  {
+    "name": "green",
+    "title": "7. Green",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Green ",
+    "examples": [
+      "https://www.eorc.jaxa.jp/ALOS/en/palsar_fnf/DatasetDescription_PALSAR2_Mosaic_FNF_revH.pdf",
+      "https://www.eorc.jaxa.jp/ALOS/en/dataset/lulc/lulc_v2103_e.htm",
+      "https://github.com/renelikestacos/Web-Mapping-Leaflet-NodeJS-Tutorials",
+      "https://github.com/apal21/Leaflet-Before-After-Map-Comparison-Slider",
+      "https://github.com/jieter/Leaflet.Sync",
+      "http://zevross.com/blog/2014/08/12/add-a-before-after-map-slider-to-a-leaflet-map/"
+    ],
+    "finished": true
+  },
+  {
+    "name": "blue",
+    "title": "8. Blue",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Blue ",
+    "examples": [
+      "https://www.sciencebase.gov/catalog/item/5c79a462e4b0fe48cb5144dc",
+      "https://search.open.canada.ca/openmap/957782bf-847c-4644-a757-e383c0057995",
+      "https://scihub.copernicus.eu/dhus/odata/v1/Products('7d55d260-e019-4658-abb2-46b5f83921cc')/Products('Quicklook')/$value"
+    ],
+    "finished": true
+  },
+  {
+    "name": "monochrome",
+    "title": "9. Monochrome",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Monochrome ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "raster",
+    "title": "10. Raster",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Raster ",
+    "examples": [
+      "https://www.eorc.jaxa.jp/ALOS/en/palsar_fnf/data/2020/map.htm",
+      "https://scihub.copernicus.eu/dhus/#/home",
+      "http://step.esa.int/main/doc/tutorials/snap-tutorials/",
+      "http://step.esa.int/main/toolboxes/snap/",
+      "https://eo-college.org/courses/echoes-in-space/"
+    ],
+    "finished": true
+  },
+  {
+    "name": "3d",
+    "title": "11. 3D",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " 3D ",
+    "examples": [
+      "https://portal.opentopography.org/",
+      "https://earthexplorer.usgs.gov/metadata/15920/2770976/",
+      "https://qgis2threejs.readthedocs.io/en/docs/Tutorial.html",
+      "https://qgis2threejs.readthedocs.io/en/docs/",
+      "https://medium.com/the-pointscene-diaries/creating-3d-map-in-qgis-690f3d40beb1",
+      "https://blog.maptheclouds.com/learning/lidar-pdal-experiments-yosemite-valley"
+    ],
+    "finished": true
+  },
+  {
+    "name": "population",
+    "title": "12. Population",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Population ",
+    "examples": ["https://twitter.com/MapNav_Tom/status/1192367466812526593"],
+    "finished": true
+  },
+  {
+    "name": "naturalearth",
+    "title": "13. Natural Earth",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Natural Earth ",
+    "examples": [
+      "https://www.naturalearthdata.com/downloads/",
+      "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/timezones/",
+      "https://www.pinterest.com/pin/417286721719769179/",
+      "https://www.visualcinnamon.com/portfolio/solar-noon/"
+    ],
+    "finished": true
+  },
+  {
+    "name": "newtool",
+    "title": "14. Map with a new tool",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Map with a new tool ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "withoutcomp",
+    "title": "15. Map made without computer",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Map made without using a computer ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "urbanrural",
+    "title": "16. Urban/Rural",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Urban/Rural ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "land",
+    "title": "17. Land",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Land ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "water",
+    "title": "18. Water",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Water ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "islands",
+    "title": "19. Island(s)",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Island(s) ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "movement",
+    "title": "20. Movement",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Movement ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "elevation",
+    "title": "21. Elevation",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Elevation ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "boundaries",
+    "title": "22. Boundaries",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Boundaries ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "ghsl",
+    "title": "23. GHSL",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " GHSL ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "historical",
+    "title": "24. Historical",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Historical ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "interactive",
+    "title": "25. Interactive",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Interactive ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "choropleth",
+    "title": "26. Choropleth",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Choropleth ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "heatmap",
+    "title": "27. Heatmap",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Heatmap ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "earthnotflat",
+    "title": "28. The Earth is not flat",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " The Earth is not flat ",
+    "examples": [
+      "https://www.naturalearthdata.com/downloads/",
+      "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/timezones/",
+      "https://www.pinterest.com/pin/417286721719769179/",
+      "https://www.pinterest.com/pin/417286721719769179/",
+      "https://www.visualcinnamon.com/portfolio/solar-noon/"
+    ],
+    "finished": true
+  },
+  {
+    "name": "null",
+    "title": "29. NULL",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " NULL ",
+    "examples": [],
+    "finished": true
+  },
+  {
+    "name": "metamapping",
+    "title": "30. Metamapping day",
+    "type": "child",
+    "parent": "30-day-map-challenge",
+    "icon": "",
+    "description": " Metamapping day ",
+    "examples": [],
+    "finished": true
+  },
+
+  {
+    "title": "30 Day Map Challenge 2021",
+    "type": "parent",
+    "name": "30-day-map-challenge",
+    "description": " 2021 "
+  }
+]

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+  <head>
+
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
+    <meta charset="UTF-8" />
+    <meta content="UTF-8" http-equiv="encoding" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Super Map</title>
+
+    <link rel="stylesheet" href="/static/global/css/main.css" />
+    <link rel="stylesheet" href="/static/points/css/main.css" />
+
+  </head>
+
+  <body>
+
+    <div class="wrapper">
+      <div class="centered">
+        <div class="content">
+          <div class="title">
+            <h1>Super Map</h1>
+            <h2>Populated Places on Earth <span>🌍</span></h2>
+            <div class="description">
+              <p>Globe</p>
+            </div>
+          </div>
+          <div class="legend-grid-right">
+            <div id="chart" class="chart-group grabbable">
+            </div>
+            <div class="aside">
+              <div id="legend"></div>
+            </div>
+          </div>
+          <div class="below">
+            <div>
+              <strong>STRONG</strong>
+              <a href=""></a> <br />
+            </div>
+            <div>
+              <strong>STRONG</strong>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="/static/global/js/d3.v5.min.js"></script>
+    <script src="/static/global/js/topojson.v2.min.js"></script>
+    <script src="/static/global/js/d3-geo-zoom.min.js"></script>
+    <script src="/static/global/js/d3-geo-projection.v2.min.js"></script>
+    <script src="/static/global/js/d3-quadtree@3.js"></script>
+    <script src="/static/global/js/versor.min.js"></script>
+
+    <script type="module" src="/static/points/js/main.js"></script>
+
+  </body>
+
+</html>
